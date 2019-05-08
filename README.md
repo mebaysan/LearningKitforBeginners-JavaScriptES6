@@ -1,2 +1,2 @@
 # LearningKitforBeginners-JavaScriptES6
-![javascript ders notları](./image/javascript.png?raw=true)
+![javascript ders notları](./images/javascript.png?raw=true)
